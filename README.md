@@ -2,6 +2,9 @@
 
 ## Research section
 
+- cv analyzer and job recommender
+  https://freedium.cfd/https://medium.com/data-science/ai-powered-information-extraction-and-matchmaking-0408c93ec1b9
+
 - Pinecone vs Qdrant vs Milvus
 
   1. Pinecone
